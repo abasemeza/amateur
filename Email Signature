@@ -9,7 +9,7 @@
 
             </td>
             <td  style="width:0%;">
-               Email: %%Email%%
+               <p style="color:red;">Arrow Lift</p>
                <!--<table style='font-size: 10.0pt; font-family: "Times New Roman"; text-align:left;'><tr><td>Email:</td><td style="float:left; text-transform:lowercase;">%%Email%%</td></tr></table> -->
             </td>
         </tr>
