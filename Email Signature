@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+</html>
+<div style="font-family: Century Gothic;">
+    <hr />
+    <table style='font-size: 10.0pt; font-family: "Century Gothic"; width:100%;'>
+           <tr>
+              <td style="width:20%;">
+                %%displayName%%
+
+            </td>
+            <td  style="width:0%;">
+               Email: %%Email%%
+               <!--<table style='font-size: 10.0pt; font-family: "Times New Roman"; text-align:left;'><tr><td>Email:</td><td style="float:left; text-transform:lowercase;">%%Email%%</td></tr></table> -->
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                %%title%%
+            </td>
+            <td>
+                Phone: %%Phone%%
+            </td>
+        </tr>
+        <tr>
+            <td>
+            </td>
+            <td>
+                %%company%%
+            </td>
+            <td>
+                Fax:403.258.1120
+            </td>
+        </tr>
+    </table>
+    <p style="color:Green; font-weight:bolder; font-size:small;">Think Green. Please don't print unless absolutely necessary.</p>
+    <p style="font-size:x-small">Disclaimer Text goes Here</p>
+    </div>
